@@ -1,2 +1,5 @@
-# gowthami-0930-certified-bootcamp
-Bootcamp Repository for IBM (certified) - Student: gowthami-0930
+# IBM Bootcamp
+
+Student: @gowthami-0930
+
+AI-Guided roadmap and instructions.
